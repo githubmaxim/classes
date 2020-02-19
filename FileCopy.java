@@ -20,6 +20,7 @@ class FileCopy
        {
          System.out.println(e.getMessage());
        }
+      System.out.println("Hello");
     }
 
 }
