@@ -9,6 +9,7 @@ class ForSerializ implements Serializable
     {
       System.out.print("file for delete222");
       System.out.print("file for delete444");
+      System.out.print("branch31");
 
     }
 }
